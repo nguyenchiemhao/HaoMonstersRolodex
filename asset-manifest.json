@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/HaoMonstersRolodex/static/css/main.263dbb6e.chunk.css",
+    "main.js": "/HaoMonstersRolodex/static/js/main.831679d7.chunk.js",
+    "main.js.map": "/HaoMonstersRolodex/static/js/main.831679d7.chunk.js.map",
+    "runtime-main.js": "/HaoMonstersRolodex/static/js/runtime-main.ae4adf73.js",
+    "runtime-main.js.map": "/HaoMonstersRolodex/static/js/runtime-main.ae4adf73.js.map",
+    "static/js/2.fd5481b5.chunk.js": "/HaoMonstersRolodex/static/js/2.fd5481b5.chunk.js",
+    "static/js/2.fd5481b5.chunk.js.map": "/HaoMonstersRolodex/static/js/2.fd5481b5.chunk.js.map",
+    "index.html": "/HaoMonstersRolodex/index.html",
+    "precache-manifest.486116866cda2a921632491a013bf8bb.js": "/HaoMonstersRolodex/precache-manifest.486116866cda2a921632491a013bf8bb.js",
+    "service-worker.js": "/HaoMonstersRolodex/service-worker.js",
+    "static/css/main.263dbb6e.chunk.css.map": "/HaoMonstersRolodex/static/css/main.263dbb6e.chunk.css.map",
+    "static/js/2.fd5481b5.chunk.js.LICENSE": "/HaoMonstersRolodex/static/js/2.fd5481b5.chunk.js.LICENSE",
+    "static/media/logo.svg": "/HaoMonstersRolodex/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae4adf73.js",
+    "static/js/2.fd5481b5.chunk.js",
+    "static/css/main.263dbb6e.chunk.css",
+    "static/js/main.831679d7.chunk.js"
+  ]
+}
